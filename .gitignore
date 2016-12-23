@@ -27,3 +27,10 @@
 *.exe
 *.out
 *.app
+
+# Testing files
+*/test.cpp
+
+# Temp files
+*~
+*#*
